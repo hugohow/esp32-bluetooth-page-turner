@@ -22,3 +22,10 @@ This setup is ideal for projects that require a simple, wireless control mechani
 - [Page Turner Bluetooth Remote Control](https://www.amazon.fr/dp/B0C6KZTHLC?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&language=en_GB) (Bluetooth emitter).
 
 https://www.amazon.fr/dp/B0C6KZTHLC?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&language=en_GB
+
+
+| ESP32 Development Board                                                                 | Page Turner Bluetooth Remote Control                                                                 |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![ESP32 Board](https://asset.conrad.com/media10/isa/160267/c1/-/fr/002490159PI00/image.jpg?x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center) | ![Bluetooth Remote](https://m.media-amazon.com/images/I/51KBmWkEMBL._AC_SL1500_.jpg) |
+
+
