@@ -1,5 +1,10 @@
 # ESP32-Bluetooth-Page-Turner
 
+
+Finding the right solution for integrating a Bluetooth remote with the ESP32 was a real challenge. After countless trials, errors, and digging through fragmented resources, I finally managed to make it work. To save others from the same frustration, I’m making this project open-source.
+
+Feel free to use, adapt, and improve it—let’s make these kinds of integrations easier for everyone! 🚀
+
 This repository demonstrates how to use an ESP32 microcontroller as a Bluetooth receiver to interface with a **Bluetooth Page Turner Remote Control**. The ESP32 can decode commands sent by the remote, enabling control of external systems such as robots or IoT devices.
 
 ## Features
